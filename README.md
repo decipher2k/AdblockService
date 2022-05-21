@@ -14,4 +14,4 @@ Please note that this can lead to DNS leaks when using VPNs.<br>
 
 <br>
 <b>Download:</br><br>
-https://github.com/decipher2k/AdblockService/releases/tag/1.0
+https://github.com/decipher2k/AdblockService/releases/tag/2.0
