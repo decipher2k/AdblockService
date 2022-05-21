@@ -1,7 +1,7 @@
 # AdblockService
 <b>Adblocking Windows service</b> based on Steven Black's hostsfile.<br>
 This service runs a DNS proxy on localhost and filters out unwanted connections.<br>
-The DNS traffic is being redirected to Google's DNS server and then filtered.<br>
+The DNS traffic is being filtered and then redirected to Google's DNS server.<br>
 Thus, it is way faster than webbrowser based adblockers. Useful if you can't afford a PiHole.<br>
 <br>
 <b>Please note:</b><br>
